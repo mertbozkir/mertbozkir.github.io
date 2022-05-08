@@ -25,7 +25,6 @@ minimal: false         # use simpler style
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
   - {file: "projects.md", icon: clipboard}
-  - {file: "archive.md", icon: archive}
   - {file: "README.md", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
