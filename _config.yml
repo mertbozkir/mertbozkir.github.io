@@ -3,7 +3,7 @@ author: "Mert Bozkir"
 description: "A blog about my life, Data Science and MLOps"
 permalink: /:year/:month/:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n\n\n"
 date_format: "%B %d, %Y"
 
 
@@ -19,7 +19,6 @@ show_title: true          # always keep the site title visible
 dark_header: true      # always keep the header dark
 minimal: false         # use simpler style
 
-
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
@@ -27,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", icon: clipboard}
   - {file: "README.md", icon: address-card}
 
-twitter_username: mertbozkirr
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:mert.bozkirr@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/mertbozkir", target: '_blank'} 
@@ -36,7 +35,7 @@ external:                  # shows a footer with social links - for available ic
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+# disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
