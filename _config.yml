@@ -27,11 +27,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", icon: clipboard}
   - {file: "README.md", icon: address-card}
 
+twitter_username: mertbozkirr
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:mert.bozkirr@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/mertbozkir", target: '_blank'} 
   - {title: Github, icon: github, url: "https://github.com/mertbozkir", target: '_blank'}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/mertbozkirr", target: '_blank'}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/mertbozkirr", target ='_blank'}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
@@ -40,6 +41,6 @@ comments:
 
 plugins:
  - jekyll-feed
- - jekyll-target-blank
+
 
 
