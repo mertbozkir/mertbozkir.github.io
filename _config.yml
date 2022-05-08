@@ -6,6 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
