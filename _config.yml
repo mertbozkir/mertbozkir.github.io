@@ -1,7 +1,7 @@
 title: "Mert's Blog"
 author: "Mert Bozkir"
 description: "A blog about my life, Data Science and MLOps"
-permalink: /:title/
+permalink: /:year/:month/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -25,7 +25,7 @@ minimal: false         # use simpler style
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
   - {file: "projects.md", icon: clipboard}
-  - {file: "archive.html", icon: archive}
+  - {file: "archive.md", icon: archive}
   - {file: "README.md", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
