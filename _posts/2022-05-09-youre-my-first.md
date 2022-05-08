@@ -1,7 +1,7 @@
 ---
 title: "You're my first 😍"
 layout: post
-categories: blog
+# categories: blog
 published: true 
 comments: true
 ---
