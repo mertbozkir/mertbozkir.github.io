@@ -1,6 +1,6 @@
-title: "Mert Bozkir Blogs"
+title: "Mert Bozkir Blog"
 author: "Mert Bozkir"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "A blog about my life, Data Science and MLOps"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -31,5 +31,6 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-remote-theme
+ - jekyll-sitemap
 
  remote_theme: niklasbuschmann/contrast@v2.11
