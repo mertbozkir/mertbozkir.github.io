@@ -1,4 +1,4 @@
-title: "Mert Bozkir Blog"
+title: "Mert's Blog"
 author: "Mert Bozkir"
 description: "A blog about my life, Data Science and MLOps"
 permalink: /:title/
@@ -13,6 +13,13 @@ show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
+show_title: true          # always keep the site title visible
+
+# Styling
+
+dark_header: true      # always keep the header dark
+minimal: false         # use simpler style
+
 
 # Menu
 
@@ -21,9 +28,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:mert.bozkirr@gmail.com"}
+#   - {title: Mail, icon: envelope, url: "mailto:mert.bozkirr@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/mertbozkir"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/mertbozkir"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/mertbozkirr"}
+#   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
