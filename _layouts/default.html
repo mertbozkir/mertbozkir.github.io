@@ -32,7 +32,7 @@
   {% include menu.html menu=pages %}
 </header>
 
-{{ content }}
+{{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
 
 {% if site.external %}
 <footer>
