@@ -41,3 +41,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-target-blank
+
