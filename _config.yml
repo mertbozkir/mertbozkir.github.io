@@ -32,7 +32,7 @@ external:                  # shows a footer with social links - for available ic
 #   - {title: Mail, icon: envelope, url: "mailto:mert.bozkirr@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/mertbozkir", target: '_blank'} 
   - {title: Github, icon: github, url: "https://github.com/mertbozkir", target: '_blank'}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/mertbozkirr", target ='_blank'}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/mertbozkirr", target: '_blank'}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
