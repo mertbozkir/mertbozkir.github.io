@@ -1,9 +1,9 @@
 ---
 title: "You're my first 😍"
-# categories: blog
+tags: blog
 published: true 
 comments: true
-tags: blog
+
 article_header:
   type: cover
   image:
