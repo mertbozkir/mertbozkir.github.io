@@ -14,5 +14,5 @@ Hey, I am Mert. Self-Taught ML Engineer who loves to contribute communities. I l
 
 I'm **Community Manager** at the [Miuul](https://miuul.com") company which is Data Education Platform in Turkey. Also I'm taking Data Science bootcamp from Miuul right now. It's going really great, we are learning real-world scenarios for data-driven companies. 
 
-My Goals are being **Developer Advocate** in MLOps company. I want to teach people how to use Open Source MLOps tools in their Data Science workflows very easily. 
+My Goal is being **Developer Advocate** in MLOps company. I want to teach people how to use Open Source MLOps tools in their Data Science workflows very easily. 
 
