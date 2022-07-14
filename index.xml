@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mert&#39;s Bert</title>
+    <link>https://mertbozkir.com/</link>
+    <description>Recent content on Mert&#39;s Bert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mertbozkir.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://mertbozkir.com/about/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mertbozkir.com/about/</guid>
+      <description>Hey, I am Mert. Self-Taught ML Engineer who loves to contribute communities. I love communities because it reminds me that we need to support each other in the success journey, because we have to not be selfish and contribute each other lives.
+I&amp;rsquo;m Community Coordinator at the Iterativecompany which is MLOps company. The mission of company is delivering the best developer experience for machine learning teams by creating an ecosystem of open, modular ML tools.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://mertbozkir.com/blog/01-introduction/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mertbozkir.com/blog/01-introduction/</guid>
+      <description>I&amp;rsquo;m starting to write public journals, my learning process and other technical blogs.
+I spent most of my time with creating this blog site today. I hate web development, somehow I finished with cool tools like Jekyll. 💕 Still there are some bugs, one of them is footer links are not opening in another tab. I looked every little hole (even blackhole!) but couldn&amp;rsquo;t find a solution. It&amp;rsquo;s night here, I still have unfinished tasks but I&amp;rsquo;m writing my first blog.</description>
+    </item>
+    
+  </channel>
+</rss>
