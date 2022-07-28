@@ -26,5 +26,27 @@ I&amp;rsquo;ll hide their names, cause of privacy and confidentiality. These peo
 I spent most of my time with creating this blog site today. I hate web development, somehow I finished with cool tools like Jekyll. 💕 Still there are some bugs, one of them is footer links are not opening in another tab. I looked every little hole (even blackhole!) but couldn&amp;rsquo;t find a solution. It&amp;rsquo;s night here, I still have unfinished tasks but I&amp;rsquo;m writing my first blog.</description>
     </item>
     
+    <item>
+      <title>Community-Driven Learning</title>
+      <link>https://mertbozkir.com/blog/04-community-driven-learning/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mertbozkir.com/blog/04-community-driven-learning/</guid>
+      <description>Edit: This blog post is a duplicate of my Medium post. Here is the link.
+I started to learn Data Science when I finished English preparatory class. I realized something quickly that self-learning is so hard, that people don’t enjoy self-learning when they’re alone. (Especially me. it’s so boring 😅) Because there aren’t any goals when you begin self-learning.
+Self-learning has a dark side and it’s unclear/non-clarified. Schools have few solutions for this problem.</description>
+    </item>
+    
+    <item>
+      <title>Overview of Neural Networks</title>
+      <link>https://mertbozkir.com/blog/03-overview-of-neural-networks/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mertbozkir.com/blog/03-overview-of-neural-networks/</guid>
+      <description>Edit: This blog post is a duplicate of my Medium post. Here is the link.
+Artificial Intelligence is so popular in our world. If you are interested in AI, You would probably know the existence of an Artificial Neural Network. Do you wanna know basically what is a neural network? Then come and dive into Neural networks by this article.
+Table of Contents What is Neural NetworkWhich areas do we use NNs?</description>
+    </item>
+    
   </channel>
 </rss>
